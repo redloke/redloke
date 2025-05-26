@@ -2,7 +2,7 @@
 
 ## Aspiring Ethical Hacker | Tech Learner
 
-- 🎓 I'm currently a B.Tech 2nd-year student in Information Technology.
+- 🎓 I'm currently a B.Tech 3nd-year student in Information Technology.
 - 💻 I’m passionate about cybersecurity, especially the **offensive side of hacking**.
 - 🌱 Currently learning:
   - Web application security
